@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LigAgent", "LigAgent\LigAgent.csproj", "{95A06795-9BCF-4052-950A-E376060BC740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LigServer", "LigServer\LigServer.csproj", "{4BECE13C-2FB4-42AA-824C-1686248881C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILigAgent", "ILigAgent\ILigAgent.csproj", "{E9CC904A-2277-4DE5-8BDB-113FDFF74665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LigClient", "LigClient\LigClient.csproj", "{EAFDF212-9937-4F82-A89C-98B87F8B07E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LigCore", "LigCore\LigCore.csproj", "{C9B1884B-7A41-4287-ABA8-5ADCDD6C5F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCommon", "LCommon\LCommon.csproj", "{44F5A1C2-B5E4-4EDB-AA3D-745B430C07F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ligger", "Ligger\Ligger.csproj", "{DF57EB96-173C-4BEB-9FF7-E1E36A5A2B09}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A06795-9BCF-4052-950A-E376060BC740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A06795-9BCF-4052-950A-E376060BC740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A06795-9BCF-4052-950A-E376060BC740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A06795-9BCF-4052-950A-E376060BC740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BECE13C-2FB4-42AA-824C-1686248881C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BECE13C-2FB4-42AA-824C-1686248881C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BECE13C-2FB4-42AA-824C-1686248881C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BECE13C-2FB4-42AA-824C-1686248881C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CC904A-2277-4DE5-8BDB-113FDFF74665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CC904A-2277-4DE5-8BDB-113FDFF74665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CC904A-2277-4DE5-8BDB-113FDFF74665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CC904A-2277-4DE5-8BDB-113FDFF74665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFDF212-9937-4F82-A89C-98B87F8B07E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFDF212-9937-4F82-A89C-98B87F8B07E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFDF212-9937-4F82-A89C-98B87F8B07E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFDF212-9937-4F82-A89C-98B87F8B07E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B1884B-7A41-4287-ABA8-5ADCDD6C5F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B1884B-7A41-4287-ABA8-5ADCDD6C5F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B1884B-7A41-4287-ABA8-5ADCDD6C5F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B1884B-7A41-4287-ABA8-5ADCDD6C5F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F5A1C2-B5E4-4EDB-AA3D-745B430C07F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F5A1C2-B5E4-4EDB-AA3D-745B430C07F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F5A1C2-B5E4-4EDB-AA3D-745B430C07F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F5A1C2-B5E4-4EDB-AA3D-745B430C07F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF57EB96-173C-4BEB-9FF7-E1E36A5A2B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF57EB96-173C-4BEB-9FF7-E1E36A5A2B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF57EB96-173C-4BEB-9FF7-E1E36A5A2B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF57EB96-173C-4BEB-9FF7-E1E36A5A2B09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

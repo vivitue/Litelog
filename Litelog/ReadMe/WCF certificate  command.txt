@@ -1,0 +1,2 @@
+Makecert -n "CN=vivitueCA" -r -sv C:\vivitueCA.pvk C:\vivitueCA.cer
+Makecert -n "CN=vivitue" -ic C:\vivitueCA.cer -iv C:\vivitueCA.pvk -sr LocalMachine -ss My -pe -sky exchange
