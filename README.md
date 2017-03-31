@@ -1,10 +1,7 @@
+
 # Litelog
-Lig: A lite logsystem.Details as follows:
+Lig: A lite logsystem
 blog.csdn.net/vivitue
-
-WCF 项目应用连载[1] - 索引 - 轻量级的Log系统 - Lig Sample 序
-
-系列文章工程源代码
 
 LWCF 项目应用连载 系列文章 索引
 ————————————————————————————————
@@ -26,9 +23,7 @@ WCF 项目应用连载[13] - 附： Lambda表达式、Linq查询与扩展方法
 WCF 项目应用连载[14] - 附： 方法超时管理 - AsyncManager
 WCF 项目应用连载[15] - 附： Remoting中的委托 & 事件参数处理
 
-
 参考引文:
-
 [1] Artech.WCF全面解析[M].2012
 [2] O'Reilly.WCF编程[M].2009
 [3] Adnrew Trolesen.C#与.net3.5/4高级程序设计[M].2009/2013
